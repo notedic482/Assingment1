@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="count_down_to_election_day">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="minutes">นาที</string>
+    <string name="seconds">วินาที</string>
+    <string name="next">ถัดไป</string>
+</resources>
